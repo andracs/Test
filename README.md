@@ -1,9 +1,9 @@
 Øvelse: Min første hjemmeside på 3. semester datamatiker. 
 
 
-## collapsible markdown?
+## Hint
 
-<details><summary>CLICK ME</summary>
+Prøv at løse opgaven selvstændigt, uden hjælp. Hvis du har brug for hjælp, klik <details><summary>Klik her for ast få ekstra hjælp.</summary>
 <p>
 
 #### yes, even hidden code blocks!
