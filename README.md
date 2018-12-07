@@ -3,7 +3,7 @@
 
 ## Hint
 
-Prøv at løse opgaven selvstændigt, uden hjælp. Hvis du har brug for hjælp, klik <details><summary>Klik her for ast få ekstra hjælp.</summary>
+Prøv at løse opgaven selvstændigt, uden hjælp.  <details><summary>Hvis du har brug for hjælp, klik her.</summary>
 <p>
 
 #### yes, even hidden code blocks!
